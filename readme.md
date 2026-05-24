@@ -430,3 +430,4 @@ At the end of all exercises, verify the following on the GitHub repo:
 - [ ] All feature branches have been merged and deleted
 - [ ] `team/shared-notes.md` contains a line from both Person X and Person Y
 - [ ] Every team member has at least one merged Pull Request in the repo history
+Hello I am Kiki
